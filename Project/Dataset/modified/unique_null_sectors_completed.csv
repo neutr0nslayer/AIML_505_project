@@ -21,7 +21,7 @@ BANKASI1PB,Corporate Bond
 ABBLPBOND,Corporate Bond
 HEIDELBCEM,Cement
 CONFIDCEM,Cement
-FUWANGCER,Miscellaneous
+FUWANGCER,Ceramics
 SBACBANK,Bank
 DEBBDWELD,Debenture
 MBPLCPBOND,Corporate Bond
@@ -29,7 +29,7 @@ IBBLPBOND,Corporate Bond
 DEBBDLUGG,Debenture
 DEBBXDENIM,Debenture
 TECHNODRUG,Pharmaceuticals&Chemicals
-BDWELDING,Engineering
+BDWELDING,Power&Fuel
 DEBBXKNI,Debenture
 DEBBXFISH,Debenture
 DEBBDZIPP,Debenture
@@ -40,9 +40,9 @@ DEBBXTEX,Debenture
 SEB1PBOND,Corporate Bond
 NCCBANK,Bank
 MEGHNACEM,Cement
-SHARPIND,Engineering
+SHARPIND,Textile
 SHAHJABANK,Bank
-BPPL,PaperPrint
+BPPL,Power&Fuel
 UCB2PBOND,Corporate Bond
 LHB,Cement
 ARAMITCEM,Cement
@@ -55,17 +55,17 @@ DBLPBOND,Corporate Bond
 SOUTHEASTB,Bank
 CAPITECGBF,MutualFunds
 MIDLANDBNK,Bank
-STANCERAM,Miscellaneous
+STANCERAM,Ceramics
 CBLPBOND,Corporate Bond
-RAKCERAMIC,Miscellaneous
-SPCERAMICS,Miscellaneous
+RAKCERAMIC,Ceramics
+SPCERAMICS,Ceramics
 ONEBANKLTD,Bank
 DSES,Index
 DS30,Index
 DSEX,Index
 MICEMENT,Cement
-NPOLYMAR,Miscellaneous
-TAUFIKA,Engineering
+NPOLYMAR,Engineering
+TAUFIKA,Food&Allied
 UNITEDAIR,Travel&Lesiure
 MONNOSTAF,Engineering
 GLAXOSMITH,Pharmaceuticals&Chemicals
@@ -74,16 +74,15 @@ EASTLAND ,Insurance
 AZIZPIPES ,Engineering
 ARAMITCEM ,Cement
 LAFSURCEML,Cement
-QSMDRYCELL,Engineering
+QSMDRYCELL,Miscellaneous
 BRACSCBOND,Corporate Bond
-CMCKAMAL,Engineering
+CMCKAMAL,Textile
 UCBL,Bank
-BEDL,Engineering
+BEDL,Power&Fuel
 FLEASEINT,Financial Institutions
 ACIZCBOND,Corporate Bond
-FUWANGCER ,Ceramics
-ULC,Engineering
-ICBISLAMIC,MutualFunds
+ULC,Financial Institutions
+ICBISLAMIC,Bank
 BDBUILDING,Engineering
 MTBL,Bank
 APEXADELFT,Tannery Industries
@@ -97,28 +96,28 @@ FIDELASSET,Financial Institutions
 DHAKAFISH,Food&Allied
 GULFOODS,Food&Allied
 PADMACEM,Cement
-ALPHATOBA,Textile
+ALPHATOBA,Food&Allied
 NILOYCEM,Cement
 QSMSILK,Textile
 TBL,Bank
-BLTC,Telecommunication
-MODERNIND,Engineering
-BDPLANT,Engineering
-HILLPLANT,Engineering
+BLTC,
+MODERNIND,Textile
+BDPLANT,Food&Allied
+HILLPLANT,Food&Allied
 BANGLAPRO,Food&Allied
 BDONLINE,ITSector
-SOCIALINV,Financial Institutions
+SOCIALINV,Bank
 DANDYDYE,Textile
-MEGHNASHRM,Textile
+MEGHNASHRM,Food&Allied
 EXCELSHOE,Tannery Industries
-ROSEHEAVEN,Travel&Lesiure
+ROSEHEAVEN,Miscellaneous
 RANGAFOOD,Food&Allied
 ALAMINCHEM,Pharmaceuticals&Chemicals
 ASHRAFTEX,Textile
-LEXCO,Miscellaneous
+LEXCO,Tannery Industries
 MAQPAPER,PaperPrint
 MAQENTER,Engineering
-WONDERTOYS,Miscellaneous
+WONDERTOYS,Engineering
 SREEPURTEX,Textile
 GACHIHATA,Food&Allied
 MITATEX,Textile
@@ -131,26 +130,26 @@ BDDYE,Textile
 TULIPDAIRY,Food&Allied
 SAJIBKNIT,Textile
 PADMAPRINT,PaperPrint
-BDLUGGAGE,Engineering
-BENGALFINE,Textile
+BDLUGGAGE,Miscellaneous
+BENGALFINE,Ceramics
 PERFUMCHM,Pharmaceuticals&Chemicals
-EAGLESTAR,Insurance
+EAGLESTAR,Textile
 DYNAMICTEX,Textile
 MONAFOOD,Food&Allied
-MHOSSAIN,Engineering
+MHOSSAIN,Textile
 BIONICFOOD,Food&Allied
-SALEHCARPT,Miscellaneous
+SALEHCARPT,Jute
 AMAMSEAFD,Food&Allied
 METALEXCR,Engineering
 BEMCO,Engineering
 BXFISHERY,Food&Allied
-SHINEPUKUR,Miscellaneous
+SHINEPUKUR,Ceramics
 PHARMACO,Pharmaceuticals&Chemicals
 TRIPTI,Food&Allied
 GBJVFOOD,Food&Allied
 CHICTEX,Textile
 BDHOTELS,Travel&Lesiure
-RASPIT,ITSector
+RASPIT,Food&Allied
 RASPITDATA,ITSector
 PHENIXLETH,Tannery Industries
 PETROSYNTH,Power&Fuel
