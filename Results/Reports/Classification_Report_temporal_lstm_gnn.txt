@@ -6,10 +6,10 @@ DETAILED CLASSIFICATION REPORT: TEMPORAL LSTM-GNN
 
           DDoS       1.00      0.99      1.00    385325
            DoS       1.00      0.99      0.99    330052
-        Normal       0.02      1.00      0.03        96
-Reconnaissance       0.80      0.74      0.77     18217
+        Normal       0.04      1.00      0.07        96
+Reconnaissance       0.80      0.89      0.84     18217
          Theft       0.01      1.00      0.01        16
 
-      accuracy                           0.98    733706
-     macro avg       0.56      0.94      0.56    733706
-  weighted avg       0.99      0.98      0.99    733706
+      accuracy                           0.99    733706
+     macro avg       0.57      0.97      0.58    733706
+  weighted avg       0.99      0.99      0.99    733706
