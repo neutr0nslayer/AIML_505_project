@@ -4,12 +4,12 @@ DETAILED CLASSIFICATION REPORT: FLOW MLP BASELINE
 
                 precision    recall  f1-score   support
 
-          DDoS       0.05      0.00      0.00    385325
-           DoS       0.48      0.74      0.58    330052
+          DDoS       0.69      0.85      0.76    385325
+           DoS       0.64      0.27      0.38    330052
         Normal       0.00      1.00      0.00        96
-Reconnaissance       0.10      0.78      0.17     18217
-         Theft       0.00      0.00      0.00        16
+Reconnaissance       0.00      0.00      0.00     18217
+         Theft       0.00      0.12      0.00        16
 
-      accuracy                           0.35    733706
-     macro avg       0.13      0.50      0.15    733706
-  weighted avg       0.24      0.35      0.27    733706
+      accuracy                           0.57    733706
+     macro avg       0.27      0.45      0.23    733706
+  weighted avg       0.65      0.57      0.57    733706
