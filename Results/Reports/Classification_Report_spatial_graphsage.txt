@@ -4,12 +4,12 @@ DETAILED CLASSIFICATION REPORT: SPATIAL GRAPHSAGE
 
                 precision    recall  f1-score   support
 
-          DDoS       0.95      0.96      0.95    385325
-           DoS       0.95      0.97      0.96    330052
+          DDoS       0.94      0.95      0.94    385325
+           DoS       0.94      0.96      0.95    330052
         Normal       0.02      0.97      0.05        96
-Reconnaissance       1.00      0.10      0.19     18217
-         Theft       0.01      0.94      0.02        16
+Reconnaissance       1.00      0.13      0.22     18217
+         Theft       0.02      0.94      0.04        16
 
-      accuracy                           0.94    733706
-     macro avg       0.59      0.79      0.43    733706
-  weighted avg       0.95      0.94      0.94    733706
+      accuracy                           0.93    733706
+     macro avg       0.59      0.79      0.44    733706
+  weighted avg       0.94      0.93      0.93    733706

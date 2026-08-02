@@ -4,12 +4,12 @@ DETAILED CLASSIFICATION REPORT: SPATIAL GCN
 
                 precision    recall  f1-score   support
 
-          DDoS       0.98      0.99      0.98    385325
-           DoS       0.99      0.96      0.97    330052
-        Normal       0.02      1.00      0.04        96
-Reconnaissance       0.79      0.78      0.79     18217
-         Theft       0.36      0.94      0.52        16
+          DDoS       0.98      0.98      0.98    385325
+           DoS       0.98      0.97      0.97    330052
+        Normal       0.04      1.00      0.07        96
+Reconnaissance       0.80      0.88      0.84     18217
+         Theft       0.32      0.94      0.48        16
 
       accuracy                           0.97    733706
-     macro avg       0.63      0.93      0.66    733706
+     macro avg       0.62      0.95      0.67    733706
   weighted avg       0.98      0.97      0.97    733706
