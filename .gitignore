@@ -3,4 +3,7 @@
 .conda/
 .vscode
 /AIML_505
+Model/
+*.pt
+*.pth
 

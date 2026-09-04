@@ -1,0 +1,15 @@
+==========================================================
+DETAILED CLASSIFICATION REPORT: TEMPORAL LSTM-GNN
+==========================================================
+
+                precision    recall  f1-score   support
+
+          DDoS       1.00      0.99      1.00    385325
+           DoS       1.00      0.99      0.99    330052
+        Normal       0.03      1.00      0.06        96
+Reconnaissance       0.80      0.86      0.83     18217
+         Theft       0.01      1.00      0.01        16
+
+      accuracy                           0.99    733706
+     macro avg       0.57      0.97      0.58    733706
+  weighted avg       0.99      0.99      0.99    733706
